@@ -42,7 +42,7 @@ service:
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
     right at the coast of the Semantics
   service_item:
-  - icon: alarm-outline
+  - icon: ion-ios-alarm-outline
     name: Maintenance
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
