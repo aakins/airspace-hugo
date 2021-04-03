@@ -70,7 +70,7 @@ service:
     name: Field Maintenance
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
-  - icon: calendar-number-outline
+  - icon: ion-calendar-number-outline
     name: Flexible Billing
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
