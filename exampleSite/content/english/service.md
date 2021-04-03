@@ -46,8 +46,8 @@ service:
     name: Maintenance
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
-  - icon: ion-coffee
-    name: Branding
+  - icon: ion-ios-paw
+    name: Pet Friendly
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-home
