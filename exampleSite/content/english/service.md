@@ -66,7 +66,7 @@ service:
     name: Pro Quality Turf
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
-  - icon: football-outline
+  - icon: ion-football-outline
     name: Field Maintenance
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
