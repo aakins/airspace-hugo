@@ -62,8 +62,8 @@ service:
     name: Start Up
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
-  - icon: ion-headphone
-    name: Logo Design
+  - icon: golf-outline
+    name: Pro Quality Turf
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: football-outline
