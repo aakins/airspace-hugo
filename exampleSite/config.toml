@@ -1,5 +1,5 @@
 baseURL = "https://ism-401.netlify.app/"
-disableLanguages = ["fr"]
+disableLanguages = ["de", "fr"]
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "4"
