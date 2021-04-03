@@ -74,7 +74,7 @@ name = "Kontakt"
 weight = 6
 [languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All Rights Reserved."
+copyright = "Copyright &copy; 2021 [12oaks](https://ism-401.netlify.app/). All Rights Reserved."
 languageCode = "en-US"
 languageName = "English"
 weight = 1
