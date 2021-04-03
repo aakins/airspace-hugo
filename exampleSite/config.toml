@@ -1,5 +1,5 @@
 baseURL = "https://ism-401.netlify.app/"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "4"
@@ -213,12 +213,12 @@ startLevel = 2
 [outputs]
 home = ["HTML"]
 [params]
-author = "Themefisher"
-description = "This is meta description"
+author = "Bill Dipperly"
+description = "Welcome to White Oaks Lawn & Landscape.  We deliver breathtaking views to the comfort of your home."
 images = ["images/logo.png"]
 logo = "images/logo.png"
 logo_width = "150px"
-title = "Airspace Hugo Template"
+title = "White Oaks Lawn & Landscape"
 [params.contact]
 address_descriptors = true
 email = "demo@email.com"
