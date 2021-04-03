@@ -215,9 +215,9 @@ home = ["HTML"]
 [params]
 author = "Bill Dipperly"
 description = "Welcome to White Oaks Lawn & Landscape.  We deliver breathtaking views to the comfort of your home."
-images = ["images/logo.png"]
-logo = "images/logo.png"
-logo_width = "150px"
+images = ["/images/imgbin-computer-icons-oak-leaf-tree-leaf-xzlwdhcrjwn8w4jeaerpupq1u-jpg-2.png", "images/logo.png"]
+logo = "/images/imgbin-computer-icons-oak-leaf-tree-leaf-xzlwdhcrjwn8w4jeaerpupq1u-jpg-2.png"
+logo_width = "226px"
 title = "White Oaks Lawn & Landscape"
 [params.contact]
 address_descriptors = true
