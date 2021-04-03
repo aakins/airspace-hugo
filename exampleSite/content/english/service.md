@@ -54,7 +54,7 @@ service:
     name: Residential
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
-  - icon: ion-business
+  - icon: ion-ios-briefcase
     name: Commercial
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
