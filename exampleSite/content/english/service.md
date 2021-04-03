@@ -62,7 +62,7 @@ service:
     name: Start Up
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
-  - icon: golf-outline
+  - icon: ion-golf
     name: Pro Quality Turf
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
