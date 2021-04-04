@@ -19,9 +19,9 @@ about:
   - icon: ion-map
     name: Locations Served
     count: "204"
-  - icon: ion-ios-flame-outline
-    name: Lines Of Code
-    count: "35000"
+  - icon: ion-chatboxes
+    name: Monthly Requests
+    count: "24"
   - icon: ion-ios-pint-outline
     name: Satisfied Customer
     count: "70"
