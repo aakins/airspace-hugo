@@ -56,13 +56,12 @@ cta:
 funfacts:
   enable: true
   title: Fun Facts About Us
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  description: "'Lorem ipsum dolor sit amet, consectetur adipisicing elit, <br> sed
+    do eiusmod tempor incididunt ut'"
   funfact_item:
-  - icon: ion-ios-chatboxes-outline
-    name: Cups Of Coffee
-    count: "99"
+  - icon: ion-ios-rose-outline
+    name: Flowers Planted
+    count: "2742"
   - icon: ion-ios-glasses-outline
     name: Article Written
     count: "45"
