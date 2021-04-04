@@ -42,8 +42,8 @@ features:
     name: Design, Cost, & Maintenance
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
-  - icon: ion-ios-unlocked-outline
-    name: App Secutity
+  - icon: ion-ios-time-outline
+    name: 'Time Conscious '
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-ios-game-controller-b-outline
