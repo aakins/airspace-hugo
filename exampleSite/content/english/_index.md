@@ -74,10 +74,10 @@ funfacts:
   testimonial_slider:
   - name: Raymond Roy
     image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    designation: Coach
+    content: 12Oaks repaired our field after years of neglect.  Within a single off-season,
+      they had the field looking pristine and ended up saving us money by reducing
+      the excess chemicals that had been being used.
   - name: Randi Renin
     image: images/clients/avater-1.jpg
     designation: CEO-Themefisher
