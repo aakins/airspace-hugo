@@ -50,8 +50,8 @@ features:
     name: Lorem Ipsum
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
-  - icon: ion-ios-mic-outline
-    name: Animation and Editing
+  - icon: ion-ios-flower-outline
+    name: Lorem Ipsum
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-ios-lightbulb-outline
