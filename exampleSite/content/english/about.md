@@ -31,9 +31,9 @@ about:
   - icon: ion-headphone
     name: Hours Listened While Working
     count: "3932"
-  - icon: ion-ios-body-outline
-    name: Awards Winner
-    count: "20"
+  - icon: ion-bonfire
+    name: Firepits Built
+    count: "86"
 features:
   enable: true
   title: We are indepented Design & Development Agency
