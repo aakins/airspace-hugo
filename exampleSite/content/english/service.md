@@ -62,8 +62,8 @@ service:
     name: Water Management
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
-  - icon: ion-golf
-    name: Pro Quality Turf
+  - icon: ion-beaker
+    name: Individual Treatment Plans
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-ios-football
