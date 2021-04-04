@@ -85,7 +85,7 @@ funfacts:
       design.  I know interiors, but the twelve oaks design team know exteriors. I
       love returning to client's homes to see what magic they have created.
   - name: Rose Rio
-    image: images/clients/avater-3.jpg
+    image: "/images/teams/team-2.jpg"
     designation: CEO-Themefisher
     content: This Company created an e-commerce site with the tools to make our business
       a success, with innovative ideas we feel that our site has unique elements that
