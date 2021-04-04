@@ -86,9 +86,10 @@ funfacts:
       love returning to client's homes to see what magic they have created.
   - name: Rose Rio
     image: "/images/teams/team-2.jpg"
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    designation: Customer
+    content: I reached out to get my backyard improved.  If I had known how much they
+      would make me enjoy outdoors, I would have contacted them years ago. I look
+      forward to my evenings spent out back, reading a book and enjoying a glass of
+      wine.
 
 ---
