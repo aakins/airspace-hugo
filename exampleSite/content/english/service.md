@@ -58,8 +58,8 @@ service:
     name: Commercial
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
-  - icon: ion-bug
-    name: Start Up
+  - icon: ion-waterdrop
+    name: Water Management
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-golf
