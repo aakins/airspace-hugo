@@ -36,10 +36,10 @@ about:
     count: "86"
 features:
   enable: true
-  title: We are indepented Design & Development Agency
+  title: We are self owned & support sustainable landscaping
   feature_item:
   - icon: ion-ios-color-filter-outline
-    name: IOS App Development
+    name: Design, Cost, & Maintenance
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-ios-unlocked-outline
