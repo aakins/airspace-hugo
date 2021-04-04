@@ -5,7 +5,7 @@ bg_image: images/featue-bg.jpg
 layout: service
 about:
   enable: true
-  title: Creative UX/UI Design Agency
+  title: Lawncare & Creative Landscape Design
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta
     corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum
     ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
