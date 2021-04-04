@@ -28,9 +28,9 @@ about:
   - icon: ion-ios-wineglass-outline
     name: Awards Winner
     count: "10"
-  - icon: ion-ios-chatboxes-outline
-    name: Satisfied Customer
-    count: "75"
+  - icon: ion-headphone
+    name: Hours Listened While Working
+    count: "3932"
   - icon: ion-ios-body-outline
     name: Awards Winner
     count: "20"
