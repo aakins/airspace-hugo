@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: "/images/landscaping-19.jpg"
   bg_overlay: true
   title: Providing Lawncare <br/> & Landscape Excellence
   content: We love nature and the work we do.We work closely with our clients to deliver  the
@@ -41,6 +41,7 @@ portfolio:
     link: project
 service:
   enable: true
+  service_item: []
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
