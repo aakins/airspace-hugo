@@ -55,7 +55,7 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-ios-lightbulb-outline
-    name: UI/UX Design
+    name: Lorem Ipsum
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-ios-sunny-outline
