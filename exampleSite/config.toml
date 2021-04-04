@@ -221,9 +221,9 @@ logo_width = "226px"
 title = "White Oaks Lawn & Landscape"
 [params.contact]
 address_descriptors = true
-email = "demo@email.com"
-location = "North Main Street, Brooklyn Australia"
-phone = "0124857985320"
+email = "contact@twelveoaks.com"
+location = "North Main Street, Athens Alabama"
+phone = "256-555-1212"
 [params.contact.form]
 action = "#"
 enable = true
