@@ -23,8 +23,8 @@ about:
     name: Monthly Requests
     count: "24"
   - icon: ion-ios-pint-outline
-    name: Satisfied Customer
-    count: "70"
+    name: Satisfied Customers
+    count: "578"
   - icon: ion-ios-wineglass-outline
     name: Awards Winner
     count: "10"
