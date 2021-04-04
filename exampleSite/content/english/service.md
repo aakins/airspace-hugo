@@ -38,9 +38,9 @@ featured_service:
 service:
   enable: true
   title: Our Services
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
+  description: From the escape of your backyard to the fields that your kids play
+    on, we are there to ensure that <br> everyone enjoys their outdoors.  We strive
+    to bring a bit of the ethereal to everyday life.
   service_item:
   - icon: ion-ios-alarm-outline
     name: Maintenance
