@@ -70,7 +70,7 @@ funfacts:
     count: "125"
   - icon: ion-ios-rainy-outline
     name: Properties Watered
-    count: "72"
+    count: "127"
   testimonial_slider:
   - name: Raymond Roy
     image: images/clients/avater-1.jpg
