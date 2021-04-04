@@ -68,9 +68,9 @@ funfacts:
   - icon: ion-ios-pint-outline
     name: Thirsts Quenched
     count: "125"
-  - icon: ion-ios-timer-outline
-    name: Combined Projects
-    count: "200"
+  - icon: ion-ios-rainy-outline
+    name: Properties Watered
+    count: "72"
   testimonial_slider:
   - name: Raymond Roy
     image: images/clients/avater-1.jpg
