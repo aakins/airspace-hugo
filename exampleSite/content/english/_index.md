@@ -65,8 +65,8 @@ funfacts:
   - icon: ion-ios-americanfootball-outline
     name: Facilities Managed
     count: "12"
-  - icon: ion-ios-compose-outline
-    name: Projects Completed
+  - icon: ion-ios-pint-outline
+    name: Thirsts Quenched
     count: "125"
   - icon: ion-ios-timer-outline
     name: Combined Projects
