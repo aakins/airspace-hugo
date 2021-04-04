@@ -62,9 +62,9 @@ funfacts:
   - icon: ion-ios-rose-outline
     name: Flowers Planted
     count: "2742"
-  - icon: ion-ios-glasses-outline
-    name: Article Written
-    count: "45"
+  - icon: ion-ios-americanfootball-outline
+    name: Facilities Managed
+    count: "12"
   - icon: ion-ios-compose-outline
     name: Projects Completed
     count: "125"
